@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 <b>Project and learning history</b>
 
-Learned how to use Github | 08/06-2021
+* Learned how to use Github | 08/06-2021
